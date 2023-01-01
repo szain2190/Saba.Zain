@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @szain2190
+- 👋 Hi, I’m Saba
 - 👀 I’m interested in programming and finding new ways to solve problems.
 - 🌱 I’m currently learning biology, maths and computer science (A level).
 
